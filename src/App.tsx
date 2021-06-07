@@ -1,5 +1,5 @@
-import * as React from 'react';
+import * as React from 'react'
 
-type AppProps = { num: number };
+type AppProps = { num: number }
 
-export const App = ({ num }: AppProps) => <h1>Hello world React! Num: {num}</h1>;
+export const App = ({ num }: AppProps) => <h1>Hello world React! Num: {num}</h1>
